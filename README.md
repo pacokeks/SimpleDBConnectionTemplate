@@ -35,7 +35,7 @@ SimpleDBConnectionTemplate/
 
 ### Voraussetzungen
 
-- .NET 6.0 oder höher
+- .NET 8.0 oder höher
 - SQLite und/oder MariaDB installiert (je nachdem, welche Datenbank verwendet werden soll)
 
 ### Installation
